@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.resizable {
+    height: 5rem;
+    width: 14rem;
+    color: deepskyblue; 
+    border: 2px solid deepskyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    resize: auto;
+}
