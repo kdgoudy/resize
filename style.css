@@ -5,7 +5,7 @@ body {
 .resizable {
     height: 5rem;
     width: 14rem;
-    color: deepskyblue; 
+    color: green; 
     border: 2px solid green;
     display: flex;
     justify-content: center;
