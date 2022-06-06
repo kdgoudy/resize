@@ -6,7 +6,7 @@ body {
     height: 5rem;
     width: 14rem;
     color: deepskyblue; 
-    border: 2px solid deepskyblue;
+    border: 2px solid green;
     display: flex;
     justify-content: center;
     align-items: center;
